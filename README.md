@@ -1,5 +1,5 @@
 # HeartFailure
-The data from kaggle: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data - classification problem.
+Task from kaggle: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data - classification problem.
 
 Used models: 
 - knn 
