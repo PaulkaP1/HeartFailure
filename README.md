@@ -6,4 +6,6 @@ Used models:
 - logistic regression
 - random forest.
 
-Task: predict mortality caused by Heart Failure
+Purpose: predict mortality caused by Heart Failure.
+
+Open *classification.ipynb* to see code and results.
